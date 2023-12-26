@@ -22,7 +22,7 @@ This repository contains a Python script for analyzing user meal logging behavio
 
 ## File Structure
 - `data.json`: Input dataset containing meal logging information.
-- `Meal_Logging_Behaviour_Insights.ipynb`: Jupyter Notebook containing the Python script.
+- `Meal_Logging_Behaviour_Insights.py`: Python script containing the code.
 
 ## Libraries Used
 - pandas, matplotlib, nltk, wordcloud
